@@ -1,3 +1,3 @@
 # Mvp-Sample
-Todo list app , implemented by MVP Architecture2
+Todo list app , implemented by MVP Architecture
 
